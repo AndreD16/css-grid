@@ -87,5 +87,5 @@
 }
 .card:last-child {
   grid-area: 🌟;
-  animation-delay: calc(13 * var(--stagger-delay));
+  animation-delay: calc(20 * var(--stagger-delay));
 }
